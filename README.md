@@ -1,2 +1,2 @@
 # AccountHelper
-Little SQL tool to manage databases, send mails from outlook, manage passwords for teamviawer and ammy admin and etc.
+Little SQL tool to manage databases with automatation for restore, attach ,detach, repair(dbccheck), change collation and others and others.
